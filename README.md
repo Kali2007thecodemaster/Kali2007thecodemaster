@@ -10,7 +10,7 @@
 
 <br>
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="33%">
       <a href="https://linkedin.com/in/juan-minkoa">
@@ -32,21 +32,20 @@
 
 <br>
 
-<h3><code>01 / INFO</code></h3>
-<table>
-  <tr>
-    <td>
-      I am an <b>Aspiring Quantitative Researcher</b> and <b>Machine Learning Engineer</b>.
-      <br><br>
-      This repository serves as a <b>track of my process</b>—documenting the application of first-principles mathematics to build financial models and neural architectures from the ground up. I bypass abstraction layers to implement algorithms using raw <b>Linear Algebra</b> and <b>Stochastic Calculus</b>, ensuring mathematical rigor and true understanding.
-    </td>
-  </tr>
-</table>
+<h3><code>-> INFO</code></h3>
+<div align="left">
+<blockquote>
+<pre>
+> I am an Aspiring Quantitative Researcher and Machine Learning Engineer_
+This repository serves as a track of my process—documenting the application of first-principles mathematics to build financial<br>models and neural architectures from the ground up. I bypass abstraction layers to implement algorithms using raw<br>Linear Algebra and Stochastic Calculus, ensuring mathematical rigor and true understanding.
+</pre>
+</blockquote>
+</div>
 
 <br>
 
-<h3><code>02 / SELECTED_WORKS</code></h3>
-<table>
+<h3><code>-> SELECTED_WORKS</code></h3>
+<table width="100%">
   <tr>
     <th width="15%">YEAR</th>
     <th width="45%">PROJECT / METHODOLOGY</th>
@@ -111,8 +110,8 @@
 
 <br>
 
-<h3><code>03 / ARSENAL</code></h3>
-<table>
+<h3><code>-> ARSENAL</code></h3>
+<table width="100%">
   <tr>
     <td width="25%"><b>SCIENTIFIC_COMP</b></td>
     <td>
@@ -144,16 +143,18 @@
 <br>
 
 <div align="left">
+<blockquote>
 <pre>
-> CURRENT_STATUS :  [ ACTIVE STUDENT ]
-> ACADEMIC_FOCUS :  [ VECTOR CALCULUS, DIFFERENTIAL EQUATIONS, STATISTICS, PROBABILITY, LINEAR ALGEBRA, STOCHASTIC CALCULUS]
+> CURRENT_STATUS : [ ACTIVE STUDENT ]
+> ACADEMIC_FOCUS : [ VECTOR CALCULUS, DIFF EQUATIONS, STATISTICS, PROBABILITY, LINEAR ALGEBRA, STOCHASTIC CALCULUS]
 </pre>
+</blockquote>
 </div>
 
 <br>
 
-<h3><code>04 / DASHBOARD</code></h3>
-<table>
+<h3><code>-> DASHBOARD</code></h3>
+<table width="100%">
   <tr>
     <td align="center" width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=Kali2007thecodemaster&show_icons=true&bg_color=0d1117&title_color=FF3300&text_color=FFFFFF&icon_color=FF3300&border_color=30363d&hide_border=false&count_private=true" />
@@ -162,15 +163,11 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kali2007thecodemaster&layout=compact&bg_color=0d1117&title_color=FF3300&text_color=FFFFFF&icon_color=FF3300&border_color=30363d&hide_border=false" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-        <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kali2007thecodemaster&theme=high-contrast&background=FF3300&ring=FF3300&fire=FF3300&currStreakLabel=FF3300&border=30363d&dates=FFFFFF" />
-    </td>
-  </tr>
 </table>
 
 <br>
 <br>
 
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kali2007thecodemaster&color=ff3300&style=flat-square&label=SYSTEM_VISITS" alt="Profile Views" />
+</div>
