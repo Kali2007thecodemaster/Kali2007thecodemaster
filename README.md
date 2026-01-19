@@ -37,8 +37,8 @@
   <tr>
     <td>
       I am an aspiring <b>Quantitative Researcher</b> and <b>Machine Learning Engineer</b> driven by first-principles thinking.
-      <br><br>
-      My work bypasses abstraction layers—I implement complex neural architectures (RNNs, MLPs) using raw <b>Linear Algebra</b> and <b>Stochastic Calculus</b> to guarantee mathematical rigor and optimize performance.
+      <br>
+      My work bypasses abstraction layers—I implement complex neural architectures (RNNs, MLPs) using raw <b>Linear Algebra</b> and <b>Stochastic Calculus</b> to guarantee mathematical rigor and optimize performance. This repository is a track of my progress
     </td>
   </tr>
 </table>
