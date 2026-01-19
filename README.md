@@ -146,7 +146,7 @@
 <div align="left">
 <pre>
 > CURRENT_STATUS :  [ ACTIVE STUDENT ]
-> ACADEMIC_FOCUS :  [ VECTOR CALCULUS, DIFFERENTIAL EQUATIONS, PROBABILITY, STATISTICS, MACHINE LEARNING ]
+> ACADEMIC_FOCUS :  [ VECTOR_CALCULUS && DIFF_EQUATIONS ]
 </pre>
 </div>
 
@@ -165,7 +165,7 @@
   <tr>
     <td colspan="2" align="center">
         <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kali2007thecodemaster&theme=high-contrast&background=0d1117&ring=FF3300&fire=FF3300&currStreakLabel=FF3300&border=30363d&dates=FFFFFF" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kali2007thecodemaster&theme=high-contrast&background=FF3300&ring=FF3300&fire=FF3300&currStreakLabel=FF3300&border=30363d&dates=FFFFFF" />
     </td>
   </tr>
 </table>
@@ -173,4 +173,6 @@
 <br>
 <br>
 
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kali2007thecodemaster&color=ff3300&style=flat-square&label=VIEWS" alt="Profile Views" />
+</div>
