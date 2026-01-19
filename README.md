@@ -173,6 +173,4 @@
 <br>
 <br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kali2007thecodemaster&color=ff3300&style=flat-square&label=VIEWS" alt="Profile Views" />
-</div>
+
