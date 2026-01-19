@@ -146,7 +146,7 @@
 <div align="left">
 <pre>
 > CURRENT_STATUS :  [ ACTIVE STUDENT ]
-> ACADEMIC_FOCUS :  [ VECTOR_CALCULUS && DIFF_EQUATIONS ]
+> ACADEMIC_FOCUS :  [ VECTOR CALCULUS, DIFFERENTIAL EQUATIONS, STATISTICS, PROBABILITY, LINEAR ALGEBRA, STOCHASTIC CALCULUS]
 </pre>
 </div>
 
@@ -173,6 +173,4 @@
 <br>
 <br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kali2007thecodemaster&color=ff3300&style=flat-square&label=VIEWS" alt="Profile Views" />
-</div>
+
