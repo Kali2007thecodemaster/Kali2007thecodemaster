@@ -38,7 +38,7 @@
     <td>
       I am an <b>Aspiring Quantitative Researcher</b> and <b>Machine Learning Engineer</b>.
       <br><br>
-      This repository serves as a <b>track of my process</b>—documenting my journey in applying first-principles mathematics to build financial models and neural architectures from the ground up. I bypass abstraction layers to implement algorithms using raw <b>Linear Algebra</b> and <b>Stochastic Calculus</b>, ensuring mathematical rigor and true understanding.
+      This repository serves as a <b>track of my process</b>—documenting the application of first-principles mathematics to build financial models and neural architectures from the ground up. I bypass abstraction layers to implement algorithms using raw <b>Linear Algebra</b> and <b>Stochastic Calculus</b>, ensuring mathematical rigor and true understanding.
     </td>
   </tr>
 </table>
@@ -59,7 +59,7 @@
     <td>
       <b>🧠 Matrix Calculus & RNN Optimization</b>
       <br>
-      <sub>Built a Vanilla RNN from scratch using linear algebra primitives. Derived Jacobian matrices for hidden state ($h_t$) analysis and solved vanishing gradients via explicit eigenvalue analysis.</sub>
+      <sub>Built a Vanilla RNN from scratch. Derived Jacobian matrices for hidden state ($h_t$) analysis and solved vanishing gradients via explicit eigenvalue analysis.</sub>
     </td>
     <td>
       <code>Python</code> <code>NumPy</code><br>
@@ -77,7 +77,7 @@
     <td>
       <b>📉 Stochastic Financial Modeling</b>
       <br>
-      <sub>Engineered a stochastic predictive model for capital markets. Used additive regression to decompose trend, seasonality, and holographic noise components for non-linear growth analysis.</sub>
+      <sub>Engineered a stochastic predictive model for capital markets. Used additive regression to decompose trend, seasonality, and holographic noise components.</sub>
     </td>
     <td>
       <code>Prophet</code> <code>Pandas</code><br>
@@ -95,7 +95,7 @@
     <td>
       <b>👁️ OCR via Linear Algebra (MLP)</b>
       <br>
-      <sub>Architected a Multi-Layer Perceptron for MNIST. Manually derived the chain rule for backpropagation across non-linear activation functions (ReLU, SoftMax) without AutoGrad libraries.</sub>
+      <sub>Architected a Multi-Layer Perceptron for MNIST. Manually derived the chain rule for backpropagation across non-linear activation functions without AutoGrad.</sub>
     </td>
     <td>
       <code>Python</code> <code>NumPy</code><br>
@@ -155,17 +155,17 @@
 <h3><code>04 / DASHBOARD</code></h3>
 <table>
   <tr>
-    <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Kali2007thecodemaster&show_icons=true&bg_color=0d1117&title_color=FF3300&text_color=FFFFFF&icon_color=FF3300&border_color=30363d&hide_border=false" />
+    <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Kali2007thecodemaster&show_icons=true&bg_color=0d1117&title_color=FF3300&text_color=FFFFFF&icon_color=FF3300&border_color=30363d&hide_border=false&count_private=true" />
     </td>
-    <td align="center">
+    <td align="center" width="50%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kali2007thecodemaster&layout=compact&bg_color=0d1117&title_color=FF3300&text_color=FFFFFF&icon_color=FF3300&border_color=30363d&hide_border=false" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
         <br>
-        <img src="https://github-profile-trophy.vercel.app/?username=Kali2007thecodemaster&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kali2007thecodemaster&theme=high-contrast&background=0d1117&ring=FF3300&fire=FF3300&currStreakLabel=FF3300&border=30363d&dates=FFFFFF" />
     </td>
   </tr>
 </table>
@@ -174,5 +174,5 @@
 <br>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Kali2007thecodemaster&icon=0&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=Kali2007thecodemaster&color=ff3300&style=flat-square&label=VIEWS" alt="Profile Views" />
 </div>
