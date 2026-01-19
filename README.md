@@ -4,7 +4,7 @@
 </h1>
 
 <div align="left">
-  <code>MATHEMATICS & COMPUTER SCIENCE STUDENT</code><br>
+  <code>ASPIRING QUANTITATIVE RESEARCHER & ML ENGINEER</code><br>
   <code>BASED IN REGINA, SASKATCHEWAN</code>
 </div>
 
@@ -36,9 +36,9 @@
 <table>
   <tr>
     <td>
-      I am an aspiring <b>Quantitative Researcher</b> and <b>Machine Learning Engineer</b> driven by first-principles thinking.
-      <br>
-      My work bypasses abstraction layers—I implement complex neural architectures (RNNs, MLPs) using raw <b>Linear Algebra</b> and <b>Stochastic Calculus</b> to guarantee mathematical rigor and optimize performance. This repository is a track of my progress
+      I am an <b>Aspiring Quantitative Researcher</b> and <b>Machine Learning Engineer</b>.
+      <br><br>
+      This repository serves as a <b>track of my process</b>—documenting my journey in applying first-principles mathematics to build financial models and neural architectures from the ground up. I bypass abstraction layers to implement algorithms using raw <b>Linear Algebra</b> and <b>Stochastic Calculus</b>, ensuring mathematical rigor and true understanding.
     </td>
   </tr>
 </table>
@@ -114,25 +114,61 @@
 <h3><code>03 / ARSENAL</code></h3>
 <table>
   <tr>
-    <td width="30%"><b>SCIENTIFIC COMP</b></td>
-    <td><code>Python</code> <code>NumPy</code> <code>Pandas</code> <code>Matplotlib</code></td>
+    <td width="25%"><b>SCIENTIFIC_COMP</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Matplotlib-000000?style=flat-square&logo=python&logoColor=white" />
+    </td>
   </tr>
   <tr>
-    <td><b>MACHINE LEARNING</b></td>
-    <td><code>Scikit-Learn</code> <code>Prophet</code> <code>Jupyter</code></td>
+    <td><b>MACHINE_LEARNING</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Scikit_Learn-000000?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prophet-000000?style=flat-square&logo=meta&logoColor=blue" />
+      <img src="https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=orange" />
+    </td>
   </tr>
   <tr>
-    <td><b>CORE ENG</b></td>
-    <td><code>C++</code> <code>SQL</code> <code>Git</code> <code>LaTeX</code></td>
+    <td><b>CORE_ENG</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032" />
+      <img src="https://img.shields.io/badge/LaTeX-000000?style=flat-square&logo=latex&logoColor=white" />
+    </td>
   </tr>
 </table>
 
 <br>
 
 <div align="left">
-  <code>CURRENT_STATUS:</code> <b>ACTIVE STUDENT</b><br>
-  <code>FOCUS:</code> <b>VECTOR CALCULUS & DIFF EQUATIONS</b>
+<pre>
+> CURRENT_STATUS :  [ ACTIVE STUDENT ]
+> ACADEMIC_FOCUS :  [ VECTOR_CALCULUS && DIFF_EQUATIONS ]
+</pre>
 </div>
+
+<br>
+
+<h3><code>04 / DASHBOARD</code></h3>
+<table>
+  <tr>
+    <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Kali2007thecodemaster&show_icons=true&bg_color=0d1117&title_color=FF3300&text_color=FFFFFF&icon_color=FF3300&border_color=30363d&hide_border=false" />
+    </td>
+    <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kali2007thecodemaster&layout=compact&bg_color=0d1117&title_color=FF3300&text_color=FFFFFF&icon_color=FF3300&border_color=30363d&hide_border=false" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+        <br>
+        <img src="https://github-profile-trophy.vercel.app/?username=Kali2007thecodemaster&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
+    </td>
+  </tr>
+</table>
 
 <br>
 <br>
