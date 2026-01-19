@@ -37,7 +37,7 @@
 <blockquote>
 <pre>
 > I am an Aspiring Quantitative Researcher and Machine Learning Engineer_
-This repository serves as a track of my process—documenting the application of first-principles mathematics to build<br>financial models and neural architectures from the ground up. I bypass abstraction layers to implement algorithms using raw<br>Linear Algebra and Stochastic Calculus, ensuring mathematical rigor and true understanding.
+This repository serves as a track of my process—documenting the application of first-principles mathematics to build<br>financial models and neural architectures from the ground up. I bypass abstraction layers to implement algorithms using<br>raw Linear Algebra and Stochastic Calculus, ensuring mathematical rigor and true understanding.
 </pre>
 </blockquote>
 </div>
