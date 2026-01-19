@@ -1,72 +1,142 @@
-# JUAN KAELIG MINKOA
-### Mathematics & Computer Science Student
-Regina, Saskatchewan
+<h1>
+  <code>JUAN KAELIG MINKOA</code>
+  <span style="color: #FF3300;">●</span>
+</h1>
 
-🔗 [LINKEDIN](https://linkedin.com/in/juan-minkoa) &nbsp; // &nbsp; 📩 [EMAIL](mailto:minkoajuan@outlook.com) &nbsp; // &nbsp; 📄 [RESUME](LINK_TO_YOUR_PDF_HERE)
-
-<br>
-
-## 01 / 👤 PROFILE
----
-I am an aspiring **Quantitative Researcher** and **Machine Learning Engineer** focused on the application of mathematical concpets in deep learning. My approach is rooted in first-principles: I build complex algorithms using raw linear algebra to ensure mathematical rigor and optimization.
+<div align="left">
+  [cite_start]<code>MATHEMATICS & COMPUTER SCIENCE STUDENT</code> [cite: 5]<br>
+  [cite_start]<code>BASED IN REGINA, SASKATCHEWAN</code> [cite: 2]
+</div>
 
 <br>
 
-## 02 / 📂 SELECTED WORKS
----
 <table>
   <tr>
-    <td width="10%"><b>2026</b></td>
-    <td width="55%">
-        <b>🧠 Matrix Calculus & RNN Optimization</b><br>
-        <sub>Built a Recurrent Neural Network from scratch using linear algebra primitives. [cite_start]Derived Jacobian matrices for hidden states to analyze gradient flow and address vanishing gradients via eigenvalue analysis. [cite: 17, 19, 20]</sub>
+    <td align="center" width="33%">
+      <a href="https://linkedin.com/in/juan-minkoa">
+        <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white&color=black" alt="LinkedIn">
+      </a>
     </td>
-    <td width="25%">
-        <code>Python</code> <code>NumPy</code><br>
-        <code>Linear Algebra</code>
+    <td align="center" width="33%">
+      <a href="mailto:minkoajuan@outlook.com">
+        <img src="https://img.shields.io/badge/EMAIL-FF3300?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      </a>
     </td>
-    <td width="10%"><a href="LINK_TO_REPO">↗ View</a></td>
-  </tr>
-  <tr>
-    <td><b>2025</b></td>
-    <td>
-        <b>📉 Stochastic Financial Modeling</b><br>
-        <sub>Engineered a predictive model for financial time-series. [cite_start]Used additive regression to decompose market data into trend, seasonality, and holographic noise components. [cite: 27, 28]</sub>
+    <td align="center" width="33%">
+      <a href="LINK_TO_YOUR_PDF_HERE">
+        <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=black" alt="Resume">
+      </a>
     </td>
-    <td>
-        <code>Prophet</code> <code>Pandas</code><br>
-        <code>Stochastics</code>
-    </td>
-    <td><a href="LINK_TO_REPO">↗ View</a></td>
-  </tr>
-  <tr>
-    <td><b>2025</b></td>
-    <td>
-        <b>👁️ OCR via Linear Algebra (MLP)</b><br>
-        <sub>Architected a Multi-Layer Perceptron for MNIST classification. [cite_start]Manually derived the chain rule for backpropagation across non-linear activation functions without AutoGrad. [cite: 22, 23, 25]</sub>
-    </td>
-    <td>
-        <code>Python</code> <code>NumPy</code><br>
-        <code>Computer Vision</code>
-    </td>
-    <td><a href="LINK_TO_REPO">↗ View</a></td>
   </tr>
 </table>
 
 <br>
 
-## 03 / 🛠 TECHNICAL ARSENAL
----
-| Domain | Stack |
-| :--- | :--- |
-| **💻 Scientific Computing** | [cite_start]Python, NumPy, Pandas, Matplotlib [cite: 13] |
-| **🤖 Machine Learning** | [cite_start]Scikit-Learn, Facebook Prophet, Jupyter [cite: 13, 15] |
-| **⚙️ Engineering & Math** | [cite_start]C++, SQL, Git, LaTeX [cite: 13] |
+<h3><code>01 / INFO</code></h3>
+<table>
+  <tr>
+    <td>
+      I am an aspiring <b>Quantitative Researcher</b> and <b>Machine Learning Engineer</b> [cite: 11] driven by first-principles thinking.
+      <br><br>
+      My work bypasses abstraction layers—I implement complex neural architectures (RNNs, MLPs) using raw <b>Linear Algebra</b> and <b>Stochastic Calculus</b> to guarantee mathematical rigor and optimize performance[cite: 19, 20, 28].
+    </td>
+  </tr>
+</table>
 
 <br>
+
+<h3><code>02 / SELECTED_WORKS</code></h3>
+<table>
+  <tr>
+    <th width="15%">YEAR</th>
+    <th width="45%">PROJECT / METHODOLOGY</th>
+    <th width="25%">STACK</th>
+    <th width="15%">LINK</th>
+  </tr>
+
+  <tr>
+    [cite_start]<td><code>2026</code> [cite: 18]</td>
+    <td>
+      <b>🧠 Matrix Calculus & RNN Optimization</b>
+      <br>
+      <sub>Built a Vanilla RNN from scratch using linear algebra primitives. Derived Jacobian matrices for hidden state ($h_t$) analysis and solved vanishing gradients via explicit eigenvalue analysis[cite: 19, 20, 21].</sub>
+    </td>
+    <td>
+      <code>Python</code> <code>NumPy</code><br>
+      <code>Linear Algebra</code>
+    </td>
+    <td align="center">
+      <a href="LINK_TO_REPO">
+        <img src="https://img.shields.io/badge/VIEW-FF3300?style=flat-square&logoColor=white" alt="View">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><code>2025</code> [cite: 27]</td>
+    <td>
+      <b>📉 Stochastic Financial Modeling</b>
+      <br>
+      <sub>Engineered a stochastic predictive model for capital markets. Used additive regression to decompose trend, seasonality, and holographic noise components for non-linear growth analysis[cite: 28, 29].</sub>
+    </td>
+    <td>
+      <code>Prophet</code> <code>Pandas</code><br>
+      <code>Stochastics</code>
+    </td>
+    <td align="center">
+      <a href="LINK_TO_REPO">
+        <img src="https://img.shields.io/badge/VIEW-000000?style=flat-square&logoColor=white" alt="View">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><code>2025</code> [cite: 24]</td>
+    <td>
+      <b>👁️ OCR via Linear Algebra (MLP)</b>
+      <br>
+      <sub>Architected a Multi-Layer Perceptron for MNIST. Manually derived the chain rule for backpropagation across non-linear activation functions (ReLU, SoftMax) without AutoGrad libraries[cite: 23, 25].</sub>
+    </td>
+    <td>
+      <code>Python</code> <code>NumPy</code><br>
+      <code>Computer Vision</code>
+    </td>
+    <td align="center">
+      <a href="LINK_TO_REPO">
+        <img src="https://img.shields.io/badge/VIEW-000000?style=flat-square&logoColor=white" alt="View">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h3><code>03 / ARSENAL</code></h3>
+<table>
+  <tr>
+    <td width="30%"><b>SCIENTIFIC COMP</b></td>
+    <td><code>Python</code> <code>NumPy</code> <code>Pandas</code> <code>Matplotlib</code> [cite: 13]</td>
+  </tr>
+  <tr>
+    <td><b>MACHINE LEARNING</b></td>
+    <td><code>Scikit-Learn</code> <code>Prophet</code> <code>Jupyter</code> [cite: 13, 15]</td>
+  </tr>
+  <tr>
+    <td><b>CORE ENG</b></td>
+    <td><code>C++</code> <code>SQL</code> <code>Git</code> <code>LaTeX</code> [cite: 13]</td>
+  </tr>
+</table>
+
 <br>
 
 <div align="left">
-    <sub><b>⚡ CURRENT FOCUS</b></sub><br>
-    Vector Calculus &nbsp;/&nbsp; Differential Equations &nbsp;/&nbsp; [cite_start]Data Structures [cite: 9]
+  <code>CURRENT_STATUS:</code> <b>ACTIVE STUDENT</b><br>
+  [cite_start]<code>FOCUS:</code> <b>VECTOR CALCULUS & DIFF EQUATIONS</b> [cite: 9]
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Kali2007thecodemaster&icon=0&color=0" />
 </div>
