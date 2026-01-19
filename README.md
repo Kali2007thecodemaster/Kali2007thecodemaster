@@ -8,7 +8,7 @@ Regina, Saskatchewan
 
 ## 01 / 👤 PROFILE
 ---
-I am a **Quantitative Researcher** and **Machine Learning Engineer** focused on the intersection of stochastic processes and deep learning. My approach is rooted in first-principles: I build complex algorithms using raw linear algebra to ensure mathematical rigor and optimization.
+I am an aspiring **Quantitative Researcher** and **Machine Learning Engineer** focused on the application of mathematical concpets in deep learning. My approach is rooted in first-principles: I build complex algorithms using raw linear algebra to ensure mathematical rigor and optimization.
 
 <br>
 
