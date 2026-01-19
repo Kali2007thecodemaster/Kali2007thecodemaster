@@ -4,8 +4,8 @@
 </h1>
 
 <div align="left">
-  [cite_start]<code>MATHEMATICS & COMPUTER SCIENCE STUDENT</code> [cite: 5]<br>
-  [cite_start]<code>BASED IN REGINA, SASKATCHEWAN</code> [cite: 2]
+  <code>MATHEMATICS & COMPUTER SCIENCE STUDENT</code><br>
+  <code>BASED IN REGINA, SASKATCHEWAN</code>
 </div>
 
 <br>
@@ -36,9 +36,9 @@
 <table>
   <tr>
     <td>
-      I am an aspiring <b>Quantitative Researcher</b> and <b>Machine Learning Engineer</b> [cite: 11] driven by first-principles thinking.
+      I am an aspiring <b>Quantitative Researcher</b> and <b>Machine Learning Engineer</b> driven by first-principles thinking.
       <br><br>
-      My work bypasses abstraction layers—I implement complex neural architectures (RNNs, MLPs) using raw <b>Linear Algebra</b> and <b>Stochastic Calculus</b> to guarantee mathematical rigor and optimize performance[cite: 19, 20, 28].
+      My work bypasses abstraction layers—I implement complex neural architectures (RNNs, MLPs) using raw <b>Linear Algebra</b> and <b>Stochastic Calculus</b> to guarantee mathematical rigor and optimize performance.
     </td>
   </tr>
 </table>
@@ -55,11 +55,11 @@
   </tr>
 
   <tr>
-    [cite_start]<td><code>2026</code> [cite: 18]</td>
+    <td><code>2026</code></td>
     <td>
       <b>🧠 Matrix Calculus & RNN Optimization</b>
       <br>
-      <sub>Built a Vanilla RNN from scratch using linear algebra primitives. Derived Jacobian matrices for hidden state ($h_t$) analysis and solved vanishing gradients via explicit eigenvalue analysis[cite: 19, 20, 21].</sub>
+      <sub>Built a Vanilla RNN from scratch using linear algebra primitives. Derived Jacobian matrices for hidden state ($h_t$) analysis and solved vanishing gradients via explicit eigenvalue analysis.</sub>
     </td>
     <td>
       <code>Python</code> <code>NumPy</code><br>
@@ -73,11 +73,11 @@
   </tr>
 
   <tr>
-    <td><code>2025</code> [cite: 27]</td>
+    <td><code>2025</code></td>
     <td>
       <b>📉 Stochastic Financial Modeling</b>
       <br>
-      <sub>Engineered a stochastic predictive model for capital markets. Used additive regression to decompose trend, seasonality, and holographic noise components for non-linear growth analysis[cite: 28, 29].</sub>
+      <sub>Engineered a stochastic predictive model for capital markets. Used additive regression to decompose trend, seasonality, and holographic noise components for non-linear growth analysis.</sub>
     </td>
     <td>
       <code>Prophet</code> <code>Pandas</code><br>
@@ -91,11 +91,11 @@
   </tr>
 
   <tr>
-    <td><code>2025</code> [cite: 24]</td>
+    <td><code>2025</code></td>
     <td>
       <b>👁️ OCR via Linear Algebra (MLP)</b>
       <br>
-      <sub>Architected a Multi-Layer Perceptron for MNIST. Manually derived the chain rule for backpropagation across non-linear activation functions (ReLU, SoftMax) without AutoGrad libraries[cite: 23, 25].</sub>
+      <sub>Architected a Multi-Layer Perceptron for MNIST. Manually derived the chain rule for backpropagation across non-linear activation functions (ReLU, SoftMax) without AutoGrad libraries.</sub>
     </td>
     <td>
       <code>Python</code> <code>NumPy</code><br>
@@ -115,15 +115,15 @@
 <table>
   <tr>
     <td width="30%"><b>SCIENTIFIC COMP</b></td>
-    <td><code>Python</code> <code>NumPy</code> <code>Pandas</code> <code>Matplotlib</code> [cite: 13]</td>
+    <td><code>Python</code> <code>NumPy</code> <code>Pandas</code> <code>Matplotlib</code></td>
   </tr>
   <tr>
     <td><b>MACHINE LEARNING</b></td>
-    <td><code>Scikit-Learn</code> <code>Prophet</code> <code>Jupyter</code> [cite: 13, 15]</td>
+    <td><code>Scikit-Learn</code> <code>Prophet</code> <code>Jupyter</code></td>
   </tr>
   <tr>
     <td><b>CORE ENG</b></td>
-    <td><code>C++</code> <code>SQL</code> <code>Git</code> <code>LaTeX</code> [cite: 13]</td>
+    <td><code>C++</code> <code>SQL</code> <code>Git</code> <code>LaTeX</code></td>
   </tr>
 </table>
 
@@ -131,7 +131,7 @@
 
 <div align="left">
   <code>CURRENT_STATUS:</code> <b>ACTIVE STUDENT</b><br>
-  [cite_start]<code>FOCUS:</code> <b>VECTOR CALCULUS & DIFF EQUATIONS</b> [cite: 9]
+  <code>FOCUS:</code> <b>VECTOR CALCULUS & DIFF EQUATIONS</b>
 </div>
 
 <br>
