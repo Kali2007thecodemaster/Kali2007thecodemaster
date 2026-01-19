@@ -23,7 +23,7 @@
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="LINK_TO_YOUR_PDF_HERE">
+      <a href="https://github.com/Kali2007thecodemaster/Kali2007thecodemaster/blob/main/JUAN%20MINKOA%20RESUME.pdf">
         <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=black" alt="Resume">
       </a>
     </td>
@@ -59,14 +59,14 @@
     <td>
       <b>🧠 Matrix Calculus & RNN Optimization</b>
       <br>
-      <sub>Built a Vanilla RNN from scratch. Derived Jacobian matrices for hidden state ($h_t$) analysis and solved vanishing gradients via explicit eigenvalue analysis.</sub>
+      <sub>Built a Vanilla RNN from scratch using linear algebra primitives. Derived Jacobian matrices for hidden state ($h_t$) analysis and solved vanishing gradients via explicit eigenvalue analysis.</sub>
     </td>
     <td>
       <code>Python</code> <code>NumPy</code><br>
       <code>Linear Algebra</code>
     </td>
     <td align="center">
-      <a href="LINK_TO_REPO">
+      <a href="https://github.com/Kali2007thecodemaster/Kali2007thecodemaster/blob/main/3-to-1%20RNN.ipynb">
         <img src="https://img.shields.io/badge/VIEW-FF3300?style=flat-square&logoColor=white" alt="View">
       </a>
     </td>
@@ -75,16 +75,16 @@
   <tr>
     <td><code>2025</code></td>
     <td>
-      <b>📉 Stochastic Financial Modeling</b>
+      <b>🏡 Real Estate Valuation Model</b>
       <br>
-      <sub>Engineered a stochastic predictive model for capital markets. Used additive regression to decompose trend, seasonality, and holographic noise components.</sub>
+      <sub>Developed a multivariate regression model for asset valuation. Implemented grid search optimization and feature engineering to isolate orthogonal pricing variables, minimizing RMSE.</sub>
     </td>
     <td>
-      <code>Prophet</code> <code>Pandas</code><br>
-      <code>Stochastics</code>
+      <code>Scikit-Learn</code> <code>Pandas</code><br>
+      <code>Regression</code>
     </td>
     <td align="center">
-      <a href="LINK_TO_REPO">
+      <a href="https://github.com/Kali2007thecodemaster/Kali2007thecodemaster/blob/main/homePrice.ipynb">
         <img src="https://img.shields.io/badge/VIEW-000000?style=flat-square&logoColor=white" alt="View">
       </a>
     </td>
@@ -95,14 +95,14 @@
     <td>
       <b>👁️ OCR via Linear Algebra (MLP)</b>
       <br>
-      <sub>Architected a Multi-Layer Perceptron for MNIST. Manually derived the chain rule for backpropagation across non-linear activation functions without AutoGrad.</sub>
+      <sub>Architected a Multi-Layer Perceptron for MNIST. Manually derived the chain rule for backpropagation across non-linear activation functions (ReLU, SoftMax) without AutoGrad libraries.</sub>
     </td>
     <td>
       <code>Python</code> <code>NumPy</code><br>
       <code>Computer Vision</code>
     </td>
     <td align="center">
-      <a href="LINK_TO_REPO">
+      <a href="https://github.com/Kali2007thecodemaster/Kali2007thecodemaster/blob/main/layers.ipynb">
         <img src="https://img.shields.io/badge/VIEW-000000?style=flat-square&logoColor=white" alt="View">
       </a>
     </td>
