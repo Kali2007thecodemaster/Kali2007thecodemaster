@@ -44,7 +44,119 @@ This repository serves as a track of my process—documenting the application of
 
 <br>
 
-<h3><code>-> SELECTED_WORKS</code></h3><table width="100%"><tr><th width="15%">YEAR</th><th width="45%">PROJECT / METHODOLOGY</th><th width="25%">STACK</th><th width="15%">LINK</th></tr><tr><td><code>2026</code></td><td><b>🤖 AI-Powered Hedge Fund Terminal</b><sub>Architected an institutional-grade trading dashboard using multi-agent orchestration. Features native async execution for technical (Murphy), macro (Chan), and quantitative (De Prado) analysis with Monte Carlo risk simulations.</sub></td><td><code>FastAPI</code> <code>LangChain</code><code>DeepSeek R1</code></td><td align="center"><a href=""><img src="" alt="View"></a></td></tr><tr><td><code>2026</code></td><td><b>🧠 Matrix Calculus & RNN Optimization</b><sub>Built a Vanilla RNN from scratch using linear algebra primitives. Derived Jacobian matrices for hidden state ($h_t$) analysis and solved vanishing gradients via explicit eigenvalue analysis.</sub></td><td><code>Python</code> <code>NumPy</code><code>Linear Algebra</code></td><td align="center"><a href=""><img src="" alt="View"></a></td></tr><tr><td><code>2025</code></td><td><b>🏡 Real Estate Valuation Model</b><sub>Developed a multivariate regression model for asset valuation. Implemented grid search optimization and feature engineering to isolate orthogonal pricing variables, minimizing RMSE.</sub></td><td><code>Scikit-Learn</code> <code>Pandas</code><code>Regression</code></td><td align="center"><a href=""><img src="" alt="View"></a></td></tr><tr><td><code>2025</code></td><td><b>👁️ OCR via Linear Algebra (MLP)</b><sub>Architected a Multi-Layer Perceptron for MNIST. Manually derived the chain rule for backpropagation across non-linear activation functions (ReLU, SoftMax) without AutoGrad libraries.</sub></td><td><code>Python</code> <code>NumPy</code><code>Computer Vision</code></td><td align="center"><a href=""><img src="" alt="View"></a></td></tr></table>
+<h3><code>-> SELECTED_WORKS</code></h3>
+<table width="100%">
+  <tr>
+    <th width="15%">YEAR</th>
+    <th width="45%">PROJECT / METHODOLOGY</th>
+    <th width="25%">STACK</th>
+    <th width="15%">LINK</th>
+  </tr>
+
+  <tr>
+    <td><code>2026</code></td>
+    <td>
+      <b>📈 Institutional AI Hedge Fund (Multi-Agent System)</b>
+      <br>
+      <sub>Architected a sovereign quantitative pipeline utilizing DeepSeek for macro/market synthesis and Lopez de Prado-inspired statistical sizing. Implemented Vectorized Geometric Brownian Motion for Monte Carlo portfolio projections and engineered a custom asynchronous FastAPI execution engine.</sub>
+    </td>
+    <td>
+      <code>Python</code> <code>LangChain</code><br>
+      <code>FastAPI</code> <code>Stochastic Calc</code>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Kali2007thecodemaster/Kali2007thecodemaster/blob/main/ai-hedge-fund-beta.ipynb">
+        <img src="https://img.shields.io/badge/VIEW-FF3300?style=flat-square&logoColor=white" alt="View">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><code>2026</code></td>
+    <td>
+      <b>🧠 Matrix Calculus & RNN Optimization</b>
+      <br>
+      <sub>Built a Vanilla RNN from scratch using linear algebra primitives. Derived Jacobian matrices for hidden state ($h_t$) analysis and solved vanishing gradients via explicit eigenvalue analysis.</sub>
+    </td>
+    <td>
+      <code>Python</code> <code>NumPy</code><br>
+      <code>Linear Algebra</code>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Kali2007thecodemaster/Kali2007thecodemaster/blob/main/3-to-1%20RNN.ipynb">
+        <img src="https://img.shields.io/badge/VIEW-000000?style=flat-square&logoColor=white" alt="View">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><code>2025</code></td>
+    <td>
+      <b>🏡 Real Estate Valuation Model</b>
+      <br>
+      <sub>Developed a multivariate regression model for asset valuation. Implemented grid search optimization and feature engineering to isolate orthogonal pricing variables, minimizing RMSE.</sub>
+    </td>
+    <td>
+      <code>Scikit-Learn</code> <code>Pandas</code><br>
+      <code>Regression</code>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Kali2007thecodemaster/Kali2007thecodemaster/blob/main/homePrice.ipynb">
+        <img src="https://img.shields.io/badge/VIEW-000000?style=flat-square&logoColor=white" alt="View">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><code>2025</code></td>
+    <td>
+      <b>👁️ OCR via Linear Algebra (MLP)</b>
+      <br>
+      <sub>Architected a Multi-Layer Perceptron for MNIST. Manually derived the chain rule for backpropagation across non-linear activation functions (ReLU, SoftMax) without AutoGrad libraries.</sub>
+    </td>
+    <td>
+      <code>Python</code> <code>NumPy</code><br>
+      <code>Computer Vision</code>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Kali2007thecodemaster/Kali2007thecodemaster/blob/main/layers.ipynb">
+        <img src="https://img.shields.io/badge/VIEW-000000?style=flat-square&logoColor=white" alt="View">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h3><code>-> ARSENAL</code></h3>
+<table width="100%">
+  <tr>
+    <td width="25%"><b>SCIENTIFIC_COMP</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Matplotlib-000000?style=flat-square&logo=python&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>MACHINE_LEARNING</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Scikit_Learn-000000?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prophet-000000?style=flat-square&logo=meta&logoColor=blue" />
+      <img src="https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=orange" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>CORE_ENG</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032" />
+      <img src="https://img.shields.io/badge/LaTeX-000000?style=flat-square&logo=latex&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
